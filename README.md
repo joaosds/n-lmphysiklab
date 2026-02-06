@@ -21,11 +21,11 @@ This is a hands-on 5-day block course exploring how simple language models can l
 
 ## Tentative Schedule
 
-- **Day 1:** Fully Connected Neural Networks (FCNNs) + Convolutional Neural Networks (CNNs)
-- **Day 2:** PCA and N-gram Language Models
-- **Day 3:** Langevin Dynamics (Standard & Generalized)
-- **Day 4:** Final Project
-- **Day 5:** Final Project
+- **Day 1:** Fully connected and convolutional neural networks 
+- **Day 2:** PCA and n-gram language models
+- **Day 3:** Langevin dynamics (standard and generalized)
+- **Day 4:** Final project
+- **Day 5:** Final project
 
 ## Final Project
 
