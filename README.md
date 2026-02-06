@@ -16,8 +16,8 @@ This is a hands-on 5-day block course exploring how simple language models can l
 
 ## Materials
 
-- **Manual (`manual_v1.pdf`):** Contains all course information, theory, problem sets, and further references
-- **Jupyter Notebooks:** Each day includes a companion notebook for hands-on exercises
+- **Manual (`manual_v1.pdf`):** Contains all the course information, minimal theory, tasks and further references.
+- **Jupyter Notebooks:** Each day includes a companion notebook for hands-on exercises.
 
 ## Tentative Schedule
 
@@ -48,4 +48,4 @@ sayan.banerjee@itp3.uni-stuttgart.de
 
 ---
 
-*All detailed instructions, prerequisites, and theoretical background are provided in the course manual.*
+
