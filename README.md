@@ -2,7 +2,7 @@
 
 **Instructors:** Sayan Banerjee and João Sobral  
 **Institution:** Universität Stuttgart, Institute for Theoretical Physics III (ITP3)  
-*Version: v1.0 (Last modified: February 06, 2026)*
+*Version: v1.1 (Last modified: February 10, 2026)*
 
 ## Course Overview
 
@@ -16,7 +16,7 @@ This is a hands-on 5-day block course exploring how simple language models can l
 
 ## Materials
 
-- **Manual (`manual_v1.pdf`):** Contains all the course information, minimal theory, tasks and further references.
+- **Manual (`manual_v1p1.pdf`):** Contains all the course information, minimal theory, tasks and further references.
 - **Jupyter Notebooks:** Each day includes a companion notebook for hands-on exercises.
 
 ## Tentative Schedule
@@ -34,7 +34,7 @@ Please submit a lab report (PDF + code) by **March 13, 2026** to:
 joao.sobral@itp3.uni-stuttgart.de
 ```
 
-See further details in the `manual_v1.pdf` file.
+See further details in the `manual_v1p1.pdf` file.
 
 ## Contact
 
