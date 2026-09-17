@@ -1,8 +1,8 @@
 # Blockpraktikum: Machine learning physics with language models
 
-**Instructors:** Sayan Banerjee and João Sobral  
-**Institution:** Universität Stuttgart, Institute for Theoretical Physics III (ITP3)  
-*Version: v1.1 (Last modified: February 10, 2026)*
+**Instructors:** Mira Mors \
+**Institution:** Universität Stuttgart, Institute for Theoretical Physics IV (ITP4)  
+*Version: v1.2 (Last modified: September 17, 2026)*
 
 ## Course Overview
 
@@ -10,13 +10,13 @@ This is a hands-on 5-day block course exploring how simple language models can l
 
 ## Course Structure
 
-- **Location:** Seminarraum 5.331, ITP3, Pfaffenwaldring 57
-- **Date:** February 9-13, 2026
+- **Location:** Seminarraum 5E, MPI, Heisenbergstr. 3
+- **Date:** September 21-25, 2026
 - **Time:** 09:30-12:00 daily
 
 ## Materials
 
-- **Manual (`manual_v1p1.pdf`):** Contains all the course information, minimal theory, tasks and further references.
+- **Manual (`manual_v1p2.pdf`):** Contains all the course information, minimal theory, tasks and further references.
 - **Jupyter Notebooks:** Each day includes a companion notebook for hands-on exercises.
 
 ## Tentative Schedule
@@ -31,20 +31,14 @@ This is a hands-on 5-day block course exploring how simple language models can l
 
 Please submit a lab report (PDF + code) by **March 13, 2026** to:
 ```
-joao.sobral@itp3.uni-stuttgart.de
+mira.mors@itp4.uni-stuttgart.de
 ```
 
-See further details in the `manual_v1p1.pdf` file.
+See further details in the `manual_v1p2.pdf` file.
 
 ## Contact
 
-Please do not hesitate to contact us with any questions before, during, or after the course:
-```
-joao.sobral@itp3.uni-stuttgart.de
-```
-```
-sayan.banerjee@itp3.uni-stuttgart.de
-```
+Please do not hesitate to contact us with any questions.
 
 ---
 
