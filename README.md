@@ -16,7 +16,7 @@ This is a hands-on 5-day block course exploring how simple language models can l
 
 ## Materials
 
-- **Manual (`manual_v1p2.pdf`):** Contains all the course information, minimal theory, tasks and further references.
+- **Manual (`lecturenotes_ai.pdf`):** Contains all the course information, minimal theory, tasks and further references.
 - **Jupyter Notebooks:** Each day includes a companion notebook for hands-on exercises.
 
 ## Tentative Schedule
